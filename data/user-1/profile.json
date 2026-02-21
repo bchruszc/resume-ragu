@@ -1,0 +1,16 @@
+{
+  "user": {
+    "id": "user-1",
+    "name": "Test User",
+    "contact": {
+      "email": "test@example.com",
+      "phone": "+1-555-0100",
+      "location": "San Francisco, CA"
+    },
+    "summary": "Software engineer with experience in full-stack development"
+  },
+  "jobs": [],
+  "skills": [],
+  "projects": [],
+  "accomplishments": []
+}

@@ -1,0 +1,42 @@
+{
+  "user": {
+    "id": "user-1",
+    "name": "Test User",
+    "contact": {
+      "email": "test@example.com",
+      "phone": "+1-555-0100",
+      "location": "San Francisco, CA",
+      "linkedin": null,
+      "github": null
+    },
+    "summary": "Software engineer with experience in full-stack development"
+  },
+  "jobs": [
+    {
+      "id": "job-7fb64d05",
+      "company": "Tech Corp",
+      "title": "Senior Engineer",
+      "startDate": "2020-01",
+      "endDate": "2023-06",
+      "description": "Led backend development",
+      "highlights": []
+    }
+  ],
+  "skills": [],
+  "projects": [],
+  "accomplishments": [
+    {
+      "id": "accomplishment-27817fee",
+      "statement": "Reduced API response time by 40%",
+      "context": "Users complained about slow performance",
+      "impact": "Improved user satisfaction scores by 25%",
+      "jobIds": [],
+      "projectIds": [],
+      "skillIds": [],
+      "tags": [
+        "performance",
+        "backend"
+      ]
+    }
+  ]
+}
